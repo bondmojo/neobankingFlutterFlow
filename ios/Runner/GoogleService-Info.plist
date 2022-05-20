@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499954996458-khh5f2miumbncqfs9id9agop145gshm6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499954996458-khh5f2miumbncqfs9id9agop145gshm6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>499954996458-dis8etvjsmlovn8o59vfcbr52jp1die7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDygNor1ov0KwgUK0k5xf5cpKLm0gFgQCQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499954996458</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.gojo.gojoy</string>
+	<key>PROJECT_ID</key>
+	<string>gojoy-350717</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gojoy-350717.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499954996458:ios:9b17648655758b95677393</string>
+</dict>
+</plist>

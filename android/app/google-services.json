@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "499954996458",
+    "project_id": "gojoy-350717",
+    "storage_bucket": "gojoy-350717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499954996458:android:1c0cae31764b70d5677393",
+        "android_client_info": {
+          "package_name": "co.gojo.gojoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499954996458-dis8etvjsmlovn8o59vfcbr52jp1die7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.gojo.gojoy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "499954996458-a76ausvrnc7ca9vinq0k42mlovk4d4l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSIDnPWuf01a2FxThOuwYWARlzSNa_80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499954996458-a76ausvrnc7ca9vinq0k42mlovk4d4l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499954996458-khh5f2miumbncqfs9id9agop145gshm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.gojo.gojoy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
